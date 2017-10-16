@@ -1,6 +1,5 @@
 #ifndef TEST_H
 #define TEST_H
-#define VALIDATION  0
 
 void ouvrir();
 
